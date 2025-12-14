@@ -1,2 +1,6 @@
 .venv/
 news/.venv/
+accounts/migrations/
+accounts/__init__.py
+django_project/__pycache__
+django_project/__init__.py
